@@ -45,9 +45,9 @@
 ## 📂 Project Structure
 
 ```
-InternShield-AI/
+FakeInternshipDetector
 │
-├── frontend/
+├── internshield-ai/
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
@@ -72,7 +72,7 @@ InternShield-AI/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/internshield-ai.git
+git clone https://github.com/Sanjana442006/FakeInternshipDetector
 ```
 
 ### Frontend Setup
@@ -93,15 +93,6 @@ npm start
 
 ---
 
-## 🔑 Environment Variables
-
-Create a `.env` file inside the backend folder.
-
-```env
-OPENROUTER_API_KEY=your_api_key_here
-```
-
----
 
 ## 📋 How It Works
 
@@ -135,17 +126,7 @@ The AI evaluates internships based on:
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of:
-
-- Home Page
-- AI Analysis Dashboard
-- Risk Meter
-- Company Verification
-- PDF Report
-
----
 
 ## 🎯 Future Enhancements
 
@@ -159,12 +140,3 @@ Add screenshots of:
 
 ---
 
-## 👩‍💻 Developed By
-
-**Sanjana S**
-
----
-
-## 📄 License
-
-This project is developed for educational and hackathon purposes.
